@@ -32,6 +32,7 @@ import pwndbg.commands.heap
 import pwndbg.commands.hexdump
 import pwndbg.commands.ida
 import pwndbg.commands.leakfind
+import pwndbg.commands.fptr_find
 import pwndbg.commands.misc
 import pwndbg.commands.next
 import pwndbg.commands.peda
